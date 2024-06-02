@@ -1,0 +1,46 @@
+.form-container {
+  background-color: #e76f51;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  column-gap: 2rem;
+}
+
+.form-header {
+  display: inline-block;
+
+  justify-self: end;
+}
+
+.number-form {
+  width: 5rem;
+  margin-right: 0.6rem;
+}
+
+.item-form {
+  width: 12rem;
+  margin-right: 0.6rem;
+}
+
+.btn-form {
+  width: 6rem;
+  text-transform: uppercase;
+  background-color: #264653;
+  color: #fff;
+}
+
+.item-form,
+.number-form,
+.sort {
+  background-color: #faedcd;
+}
+
+.item-form,
+.number-form,
+.btn-form,
+.sort,
+.clear {
+  border-radius: 10rem;
+  border: none;
+  padding: 0.6rem 0.6rem;
+}

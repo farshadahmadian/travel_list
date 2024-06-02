@@ -1,0 +1,9 @@
+.footer {
+  background-color: #2a9d8f;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  font-style: italic;
+  background-color: #264653;
+  color: #fff;
+}

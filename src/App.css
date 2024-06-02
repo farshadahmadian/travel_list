@@ -1,0 +1,14 @@
+/* colors:
+#e76f51
+#f4a261
+#e9c46a
+#faedcd
+#2a9d8f
+#264653
+*/
+
+.app {
+  display: grid;
+  grid-template-rows: 5fr 2fr 23fr 2fr;
+  height: 100vh;
+}
